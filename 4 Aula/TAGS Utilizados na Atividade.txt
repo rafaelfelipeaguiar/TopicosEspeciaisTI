@@ -1,0 +1,20 @@
+TAGS Utilizados na Atividade
+
+<Title><\Title>
+<div class="page-container"><\div>
+<section><\section>
+img src="Path" alt="Texto alternativo">
+<h1></h1><h2></h2><h3></h3><h4></h4><h5></h5><h6></h6>
+<p><\p>
+<ul><\ul> * lista Não Ordenada (unordered list)
+<ol><\ol> * lista ordenada (ordered list)
+<li><\li> * Add na lista
+<a href=link> <li>Texto do link</li> </a>
+<strong><\strong>
+<footer></footer>
+
+
+
+
+
+
